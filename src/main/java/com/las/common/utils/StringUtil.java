@@ -1,4 +1,4 @@
-package com.las.standart.utils;
+package com.las.common.utils;
 
 import java.util.ArrayList;
 import java.util.List;
