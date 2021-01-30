@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.las.common</groupId>
-    <artifactId>common</artifactId>
-    <version>1.0</version>
+    <artifactId>common_utils</artifactId>
+    <version>1.1</version>
     <packaging>jar</packaging>
 
     <properties>
